@@ -1,3 +1,6 @@
+<p align="center">
+<img src="http://img.shields.io/static/v1?label=STATUS&message=ENCERRADO&color=GREEN&style=for-the-badge"/>
+</p>
 Suite de teste para a REST API <a href="https://swapi.co/">SWAPI - The Star Wars API</a>, utilizando <a href="https://github.com/rest-assured">REST Assured</a> e <a href="https://github.com/junit-team/junit4">JUnit 4</a>.</br>
 </br>
 - Requisitos:</br>
